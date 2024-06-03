@@ -356,23 +356,83 @@
         "padding_bottom": 40
       }
     },
-    "my_featured_collection_filter_QMniqB": {
+    "my_featured_collection_filter_MVhynR": {
       "type": "my-featured-collection-filter",
+      "blocks": {
+        "tab_xPxf4w": {
+          "type": "tab",
+          "settings": {
+            "tabs": "All Colors",
+            "collection_tab": ""
+          }
+        },
+        "tab_mAhNAG": {
+          "type": "tab",
+          "settings": {
+            "tabs": "Black Teddy",
+            "collection_tab": ""
+          }
+        },
+        "tab_PenztJ": {
+          "type": "tab",
+          "settings": {
+            "tabs": "Blue Teddy",
+            "collection_tab": ""
+          }
+        },
+        "tab_YwAH8a": {
+          "type": "tab",
+          "settings": {
+            "tabs": "Brown Teddy",
+            "collection_tab": ""
+          }
+        },
+        "tab_tP36YJ": {
+          "type": "tab",
+          "settings": {
+            "tabs": "Cream Teddy",
+            "collection_tab": ""
+          }
+        },
+        "tab_TJRdm7": {
+          "type": "tab",
+          "settings": {
+            "tabs": "Green Teddy",
+            "collection_tab": ""
+          }
+        },
+        "tab_FKWCBb": {
+          "type": "tab",
+          "settings": {
+            "tabs": "Pink Teddy",
+            "collection_tab": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_xPxf4w",
+        "tab_mAhNAG",
+        "tab_PenztJ",
+        "tab_YwAH8a",
+        "tab_tP36YJ",
+        "tab_TJRdm7",
+        "tab_FKWCBb"
+      ],
       "settings": {
         "title": "Shop By Color",
+        "collection": "all-colors",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all-colors",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "scheme-1",
-        "container_color": "",
+        "color_scheme": "",
+        "containe_color": "scheme-1881c553-65c6-4d46-8a76-687ebc96306f",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -381,12 +441,13 @@
         "quick_add": "standard",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 40,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
     "slick_slider_n4QntE": {
       "type": "slick-slider",
+      "disabled": true,
       "settings": {
       }
     },
@@ -586,7 +647,7 @@
     "featured_collection_CQW87X",
     "my_featured_collection_tGdkYz",
     "image_with_text_9GUjHh",
-    "my_featured_collection_filter_QMniqB",
+    "my_featured_collection_filter_MVhynR",
     "slick_slider_n4QntE",
     "multicolumn_3ircjD",
     "my_multicolumn_CTAtJT"
