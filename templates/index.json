@@ -1,0 +1,594 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Giant Gift of Love & Hug",
+            "heading_size": "h1"
+          }
+        },
+        "text_anpWbz": {
+          "type": "text",
+          "settings": {
+            "text": "We are the Ultimate Giant Teddy Destination!",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text_anpWbz",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_2778.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "top-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-26bf9952-7ba0-4753-8c32-ae3d3bcf21bc",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "collection_list_Vmcx4Y": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_KNkjDY": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "birthday-gifts"
+          }
+        },
+        "featured_collection_Yf8EBM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "get-well-gifts"
+          }
+        },
+        "featured_collection_9EA48c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "graduation-gifts"
+          }
+        },
+        "featured_collection_tEQw8y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "corporate-gifts"
+          }
+        },
+        "featured_collection_pmt6np": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "back-to-school"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_KNkjDY",
+        "featured_collection_Yf8EBM",
+        "featured_collection_9EA48c",
+        "featured_collection_tEQw8y",
+        "featured_collection_pmt6np"
+      ],
+      "settings": {
+        "title": "",
+        "filter_text": "Find a Perfect Gift",
+        "button_label_1": "Find a Teddy Now",
+        "button_link_1": "shopify:\/\/collections\/all",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "scheme-3",
+        "filter_color": "scheme-5",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "border_radius": 8,
+        "column_gap": 30,
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Bestsellers",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "our-bestsellers",
+        "products_to_show": 6,
+        "columns_desktop": 6,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "container_color": "scheme-4549cef2-926d-4b77-9b3d-5fc12e3c69fd",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 0
+      }
+    },
+    "my_immage_banner_PdXQKg": {
+      "type": "my-immage-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_38872.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "my_collection_list_jgh6NQ": {
+      "type": "my-collection-list",
+      "blocks": {
+        "featured_collection_BKWbXL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "elephants"
+          }
+        },
+        "featured_collection_LXqQzE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "giant-pandas"
+          }
+        },
+        "featured_collection_fQaq4F": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "giant-stuffed-hippos"
+          }
+        },
+        "featured_collection_YCA7qa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "koalas"
+          }
+        },
+        "featured_collection_epjGT9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monkeys"
+          }
+        },
+        "featured_collection_E4EKgr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "polar-bears"
+          }
+        },
+        "featured_collection_EdDxxt": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "monkey-big-daddy"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_BKWbXL",
+        "featured_collection_LXqQzE",
+        "featured_collection_fQaq4F",
+        "featured_collection_YCA7qa",
+        "featured_collection_epjGT9",
+        "featured_collection_E4EKgr",
+        "featured_collection_EdDxxt"
+      ],
+      "settings": {
+        "title": "Giant Stuffed Animals",
+        "filter_text": "Find a Perfect Gift",
+        "button_label_1": "Button label",
+        "button_link_1": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 7,
+        "image_shape": "round",
+        "color_scheme": "",
+        "filter_color": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "border_radius": 8,
+        "my_column_gap": 20,
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_CQW87X": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Now Trending",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "now-trending",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "container_color": "scheme-60a39537-4d44-415c-bf0f-7b31da6d5d47",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "my_featured_collection_tGdkYz": {
+      "type": "my-featured-collection",
+      "settings": {
+        "title": "Now Trending",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "now-trending",
+        "products_to_show": 6,
+        "columns_desktop": 6,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "container_color": "scheme-60a39537-4d44-415c-bf0f-7b31da6d5d47",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "image_with_text_9GUjHh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zdUzLD": {
+          "type": "heading",
+          "settings": {
+            "heading": "CUSTOMIZE YOUR Teddy: STEP 1",
+            "heading_size": "h2"
+          }
+        },
+        "text_kFYk36": {
+          "type": "text",
+          "settings": {
+            "text": "<h6>Teddy Bear Size<\/h6>",
+            "text_style": "body"
+          }
+        },
+        "size_KNmyQd": {
+          "type": "size",
+          "settings": {
+          }
+        },
+        "text_AiQjTA": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Upload Your Image<\/h5>",
+            "text_style": "body"
+          }
+        },
+        "text_dUEzJ7": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Write Your Message Here<\/h5>",
+            "text_style": "body"
+          }
+        },
+        "button_VNRgV3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Next",
+            "button_link": "shopify:\/\/products\/60in-huge-life-size-valentine-s-day-teddy-bear-white-coco-cuddles-with-beautiful-i-miss-you-red-heart-pillow",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zdUzLD",
+        "text_kFYk36",
+        "size_KNmyQd",
+        "text_AiQjTA",
+        "text_dUEzJ7",
+        "button_VNRgV3"
+      ],
+      "settings": {
+        "product": "personalized-teddy-design",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-33ef9ac3-49af-49e5-81a1-e150126b955c",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 32,
+        "padding_bottom": 40
+      }
+    },
+    "my_featured_collection_filter_QMniqB": {
+      "type": "my-featured-collection-filter",
+      "settings": {
+        "title": "Shop By Color",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-colors",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "container_color": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 36
+      }
+    },
+    "slick_slider_n4QntE": {
+      "type": "slick-slider",
+      "settings": {
+      }
+    },
+    "multicolumn_3ircjD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_7hAwza": {
+          "type": "column",
+          "settings": {
+            "verified_img": "shopify:\/\/shop_images\/fsdImage.png",
+            "my_verified_product_img": "plush-pink-teddy-bear",
+            "verified_text": "Stephanie M.",
+            "title": "Very Comfortable and Soft",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. A sit nibh facilisis sollicitudin eros sagittis. Cras velit amet ultrices ullamcorper. Cursus morbi.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "column_iBb9nC": {
+          "type": "column",
+          "settings": {
+            "verified_img": "shopify:\/\/shop_images\/fsdImage.png",
+            "my_verified_product_img": "plush-pink-teddy-bear",
+            "verified_text": "Stephanie M.",
+            "title": "Very Comfortable and Soft",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. A sit nibh facilisis sollicitudin eros sagittis. Cras velit amet ultrices ullamcorper. Cursus morbi.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "column_yy9nqK": {
+          "type": "column",
+          "settings": {
+            "verified_img": "shopify:\/\/shop_images\/fsdImage.png",
+            "my_verified_product_img": "plush-pink-teddy-bear",
+            "verified_text": "Stephanie M.",
+            "title": "Very Comfortable and Soft",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. A sit nibh facilisis sollicitudin eros sagittis. Cras velit amet ultrices ullamcorper. Cursus morbi.<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "column_7hAwza",
+        "column_iBb9nC",
+        "column_yy9nqK"
+      ],
+      "settings": {
+        "title": "Customer Reviews",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-5",
+        "container_color": "scheme-486abe0f-f949-4ff9-83d5-8b938f3a4b73",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "my_multicolumn_CTAtJT": {
+      "type": "my-multicolumn",
+      "blocks": {
+        "column_zFnrzz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pHYNJt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/hgImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_razrz8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/asImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6WKhXe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wweInstagram.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_diFLKk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gdfImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qPHiRG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jhhgImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fFQ46A": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ewImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TXJNh8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/qqImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CdwrPL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dfImage.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_zFnrzz",
+        "column_pHYNJt",
+        "column_razrz8",
+        "column_6WKhXe",
+        "column_diFLKk",
+        "column_qPHiRG",
+        "column_fFQ46A",
+        "column_TXJNh8",
+        "column_CdwrPL"
+      ],
+      "settings": {
+        "title": "Follow @giantteddy",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "container_color": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "collection_list_Vmcx4Y",
+    "featured_collection",
+    "my_immage_banner_PdXQKg",
+    "my_collection_list_jgh6NQ",
+    "featured_collection_CQW87X",
+    "my_featured_collection_tGdkYz",
+    "image_with_text_9GUjHh",
+    "my_featured_collection_filter_QMniqB",
+    "slick_slider_n4QntE",
+    "multicolumn_3ircjD",
+    "my_multicolumn_CTAtJT"
+  ]
+}

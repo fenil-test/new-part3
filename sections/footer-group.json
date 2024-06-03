@@ -1,0 +1,82 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "brand_information_FUbkG3": {
+          "type": "brand_information",
+          "settings": {
+            "my_text": "Subscribe for 10% off Coupon!",
+            "show_social": true
+          }
+        },
+        "link_list_UtMLEY": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Shop By Occasions",
+            "menu": "shop-by-occasions"
+          }
+        },
+        "link_list_AWzTGn": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Important Link",
+            "menu": "important-link"
+          }
+        },
+        "link_list_brCqTm": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Our Company",
+            "menu": "our-company"
+          }
+        },
+        "link_list_iwnzHC": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Contact Info",
+            "menu": "contact-info"
+          }
+        },
+        "image_Jc4TgT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Frame_68.png",
+            "image_width": 220,
+            "image_text": "Payment Method",
+            "image_with_text": "shopify:\/\/shop_images\/bbb-footer-black_1.png",
+            "image_with_text_width": 155,
+            "alignment": ""
+          }
+        }
+      },
+      "block_order": [
+        "brand_information_FUbkG3",
+        "link_list_UtMLEY",
+        "link_list_AWzTGn",
+        "link_list_brCqTm",
+        "link_list_iwnzHC",
+        "image_Jc4TgT"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 28,
+        "padding_bottom": 16
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
