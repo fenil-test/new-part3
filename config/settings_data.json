@@ -23,6 +23,7 @@
     "body_mobile_3_size": 14,
     "primary_color": "#000000",
     "secondary_color": "#ffffff",
+    "tertiary_color": "#888888",
     "type_header_font": "poppins_n5",
     "heading_scale": 100,
     "type_body_font": "poppins_n5",

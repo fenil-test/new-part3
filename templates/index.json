@@ -359,68 +359,67 @@
     "my_featured_collection_filter_MVhynR": {
       "type": "my-featured-collection-filter",
       "blocks": {
-        "tab_xPxf4w": {
+        "tab_DNiyji": {
           "type": "tab",
           "settings": {
             "tabs": "All Colors",
-            "collection_tab": ""
+            "collection_tab": "all-colors"
           }
         },
-        "tab_mAhNAG": {
+        "tab_cBHWAz": {
           "type": "tab",
           "settings": {
             "tabs": "Black Teddy",
-            "collection_tab": ""
+            "collection_tab": "black-teddy"
           }
         },
-        "tab_PenztJ": {
+        "tab_7hwqnc": {
           "type": "tab",
           "settings": {
             "tabs": "Blue Teddy",
-            "collection_tab": ""
+            "collection_tab": "blue-teddy"
           }
         },
-        "tab_YwAH8a": {
+        "tab_XUaVVw": {
           "type": "tab",
           "settings": {
             "tabs": "Brown Teddy",
-            "collection_tab": ""
+            "collection_tab": "brown-teddy"
           }
         },
-        "tab_tP36YJ": {
+        "tab_mtbVNb": {
           "type": "tab",
           "settings": {
             "tabs": "Cream Teddy",
-            "collection_tab": ""
+            "collection_tab": "cream-teddy"
           }
         },
-        "tab_TJRdm7": {
+        "tab_KTBmrb": {
           "type": "tab",
           "settings": {
             "tabs": "Green Teddy",
-            "collection_tab": ""
+            "collection_tab": "green-teddy"
           }
         },
-        "tab_FKWCBb": {
+        "tab_jqmqbq": {
           "type": "tab",
           "settings": {
             "tabs": "Pink Teddy",
-            "collection_tab": ""
+            "collection_tab": "pink-teddy"
           }
         }
       },
       "block_order": [
-        "tab_xPxf4w",
-        "tab_mAhNAG",
-        "tab_PenztJ",
-        "tab_YwAH8a",
-        "tab_tP36YJ",
-        "tab_TJRdm7",
-        "tab_FKWCBb"
+        "tab_DNiyji",
+        "tab_cBHWAz",
+        "tab_7hwqnc",
+        "tab_XUaVVw",
+        "tab_mtbVNb",
+        "tab_KTBmrb",
+        "tab_jqmqbq"
       ],
       "settings": {
         "title": "Shop By Color",
-        "collection": "all-colors",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -431,8 +430,8 @@
         "show_view_all": false,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
-        "color_scheme": "",
-        "containe_color": "scheme-1881c553-65c6-4d46-8a76-687ebc96306f",
+        "color_scheme": "scheme-1",
+        "containe_color": "scheme-2",
         "image_ratio": "adapt",
         "image_shape": "default",
         "show_secondary_image": false,
@@ -449,6 +448,57 @@
       "type": "slick-slider",
       "disabled": true,
       "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slick_slider_AQgk6C": {
+      "type": "slick-slider",
+      "settings": {
+        "title": "Real People. Real Results.",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "video",
+        "products_to_show": 7,
+        "columns_desktop": 7,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_3ircjD": {
@@ -489,19 +539,46 @@
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/all"
           }
+        },
+        "column_jYnxDb": {
+          "type": "column",
+          "settings": {
+            "verified_img": "shopify:\/\/shop_images\/fsdImage.png",
+            "my_verified_product_img": "plush-giant-purple-teddy-bear",
+            "verified_text": "Stephanie M.",
+            "title": "Very Comfortable and Soft",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. A sit nibh facilisis sollicitudin eros sagittis. Cras velit amet ultrices ullamcorper. Cursus morbi.<\/p>",
+            "link_label": "Shop Now",
+            "link": ""
+          }
+        },
+        "column_Q46Mna": {
+          "type": "column",
+          "settings": {
+            "verified_img": "shopify:\/\/shop_images\/fsdImage_18015fb9-23f5-4cad-bae6-37c574fd01b8.png",
+            "my_verified_product_img": "60in-royce-cuddles-navy-blue-life-size-teddy-bear",
+            "verified_text": "Stephanie M.",
+            "title": "Very Comfortable and Soft",
+            "text": "<p>Lorem ipsum dolor sit amet consectetur. A sit nibh facilisis sollicitudin eros sagittis. Cras velit amet ultrices ullamcorper. Cursus morbi.<\/p>",
+            "link_label": "Shop Now",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_7hAwza",
         "column_iBb9nC",
-        "column_yy9nqK"
+        "column_yy9nqK",
+        "column_jYnxDb",
+        "column_Q46Mna"
       ],
       "settings": {
         "title": "Customer Reviews",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 5,
+        "products_to_show": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -649,6 +726,7 @@
     "image_with_text_9GUjHh",
     "my_featured_collection_filter_MVhynR",
     "slick_slider_n4QntE",
+    "slick_slider_AQgk6C",
     "multicolumn_3ircjD",
     "my_multicolumn_CTAtJT"
   ]
